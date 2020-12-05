@@ -10,7 +10,7 @@ from q2_tsne._tsne import (_joint_probabilities, _kl_divergence, _kl_divergence_
 plugin = Plugin(
         name='tsne',
         version='0.0.1',
-        website='github.com/scikit-learn/scikit-learn/blob/0fb307bf3/sklearn/manifold/_t_sne.py#L476',
+        website='https://github.com/azhang30/q2-tsne/blob/main/q2_tsne/plugin_setup.py',
         package='q2_tsne',
         description=('A t-SNE QIIME2 plugin for Adam Zhangs Final Project Fall 2020'),
         short_description='t-SNE QIIME2 plugin',
